@@ -1,7 +1,7 @@
 #coding=utf-8
 # @Time    : 2018-01-18 15:34
 # @Useage  : pyskl
-# @Author  : czbank
+# @Author  : crazylaser
 # @File    : pyskl.py
 # @Software: PyCharm
 import imutils,cv2,time,numpy as np
